@@ -19,4 +19,4 @@
 
 ## Conferences
 
-[Laracon Online Ticket](https://laracon.net/)): Laracon Online Ticket. ($20)
+[Laracon Online Ticket](https://laracon.net/): Laracon Online Ticket. ($20)
