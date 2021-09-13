@@ -1,5 +1,17 @@
 # Laravel Giveaway 2021 Prize list.
 
+# When suggesting a prize, please ensure you've done the following
+- [ ] Edit this README.md and create a PR with the changes.
+- [ ] Include the name, link and description along with the price of the prize.
+- [ ] Make sure to place it in the correct category section of the README.
+- [ ] If category doesn't exist, create it and include your link below that.
+
+## Link example
+```markdown
+[Prize name](prize-link): Description of the prize ($9 USD)
+```
+
+
 ## Products
 [ Apple AirPods Pro](https://www.apple.com/shop/product/MWP22AM/A/airpods-pro): Incredibly light, noise-canceling headphones, AirPods ($249)
 
