@@ -15,6 +15,9 @@
 ## Products
 [ Apple AirPods Pro](https://www.apple.com/shop/product/MWP22AM/A/airpods-pro): Incredibly light, noise-canceling headphones, AirPods ($249)
 
+[XBOX Series X](https://www.xbox.com/en-US/consoles/xbox-series-x): The latest and greatest 4k gaming console ($499.99 USD)
+
+
 ## Applications
 
 [Tinkerwell](https://tinkerwell.app/): Run any PHP code available for macOS, Linux, and Windows ($29.99)
