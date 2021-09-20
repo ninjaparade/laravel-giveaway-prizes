@@ -20,6 +20,8 @@
 
 ## Applications
 
+[Observer](https://observer.dev/): All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application ($14.99)
+
 [Tinkerwell](https://tinkerwell.app/): Run any PHP code available for macOS, Linux, and Windows ($29.99)
 
 [Laravel Nova](https://nova.laravel.com/): Nova is a beautifully designed administration panel for Laravel ($199)
